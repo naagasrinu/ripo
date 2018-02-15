@@ -1,0 +1,3 @@
+[submodule "submod\\ripo4"]
+	path = submod\\ripo4
+	url = https://github.com/naagasrinu/ripo4.git
